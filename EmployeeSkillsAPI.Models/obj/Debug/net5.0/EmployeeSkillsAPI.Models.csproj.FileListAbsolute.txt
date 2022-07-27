@@ -1,0 +1,15 @@
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.AssemblyInfoInputs.cache
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.AssemblyInfo.cs
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.csproj.CoreCompileInputs.cache
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\bin\Debug\net5.0\EmployeeSkillsAPI.Models.deps.json
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\bin\Debug\net5.0\EmployeeSkillsAPI.Models.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\bin\Debug\net5.0\ref\EmployeeSkillsAPI.Models.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\bin\Debug\net5.0\EmployeeSkillsAPI.Models.pdb
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\bin\Debug\net5.0\EmployeeSkillsAPI.Data.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\bin\Debug\net5.0\EmployeeSkillsAPI.Data.pdb
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.csproj.AssemblyReference.cache
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.csproj.CopyComplete
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\ref\EmployeeSkillsAPI.Models.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Models\obj\Debug\net5.0\EmployeeSkillsAPI.Models.pdb

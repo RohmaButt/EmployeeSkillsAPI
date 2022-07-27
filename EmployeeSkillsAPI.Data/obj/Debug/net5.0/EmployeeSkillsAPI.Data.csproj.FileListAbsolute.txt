@@ -1,0 +1,15 @@
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.AssemblyInfoInputs.cache
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.AssemblyInfo.cs
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.csproj.CoreCompileInputs.cache
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\bin\Debug\net5.0\EmployeeSkillsAPI.Data.deps.json
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\bin\Debug\net5.0\EmployeeSkillsAPI.Data.runtimeconfig.json
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\bin\Debug\net5.0\EmployeeSkillsAPI.Data.runtimeconfig.dev.json
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\bin\Debug\net5.0\EmployeeSkillsAPI.Data.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\bin\Debug\net5.0\ref\EmployeeSkillsAPI.Data.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\bin\Debug\net5.0\EmployeeSkillsAPI.Data.pdb
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\ref\EmployeeSkillsAPI.Data.dll
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.pdb
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.genruntimeconfig.cache
+D:\TRG SATMAP\Connect\Source 2013\Main v 1.0.0\Development\EmployeeSkillsAPI\EmployeeSkillsAPI.Data\obj\Debug\net5.0\EmployeeSkillsAPI.Data.csproj.AssemblyReference.cache
